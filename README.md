@@ -1,42 +1,34 @@
-# Rs-lang. Team-41
+<h1 align="center">RSLang</h1>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/90089564/177583349-2afc5791-dc18-40f8-8bc3-58d00c562c86.jpg" width="100%">
+</div>
+<h2 align="center"><a href="https://dariija.github.io/RSLang/">Live Demo</a></h2>
 
-#### Task: 
-https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-2/rs-lang/rslang.md
-
-#### Authors:
+## Authors:
 - [Константин @ConstantineTU](https://github.com/ConstantineTU) - Team Lead, Frontend developer
 - [Дарья @dariija](https://github.com/dariija) - Frontend developer
 - [Антон @soll1992](https://github.com/soll1992) - Frontend developer
 
-![](https://user-images.githubusercontent.com/76487981/155051095-fb637a2f-8366-4172-b7da-3d3d540d539a.png)
-#### Deploy: 
-- https://rolling-scopes-school.github.io/constantinetu-JSFE2021Q3/rslang/
+## Description
+RS Lang is an application for learning foreign words, including an electronic textbook with a database of words to learn, mini-games for repeating them, a statistics page for tracking individual progress
 
-#### Video
-- https://youtu.be/Gj7oevU50cI 
+## Backend
+- [Repo](https://github.com/ConstantineTU/react-rslang-be)
+- [Deploy](https://react-rslang-group.herokuapp.com/doc)
 
-#### Backend 
-- repo: https://github.com/ConstantineTU/react-rslang-be
-- deploy https://react-rslang-group.herokuapp.com/
-- swagger https://react-rslang-group.herokuapp.com/doc/
+## Stack:  
+- React 
+- Redux
+- Typescript
+- Webpack
 
-### Stack:  
-1. React - https://reactjs.org/  
-2. Redux, redux-thunk, redux-devtools-extension - https://redux.js.org/  
-3. Typescript - https://www.typescriptlang.org/
-
-### Used libs:  
-1. styled-components - https://styled-components.com/ https://askd.rocks/pres/styled-gdg/  
-2. react-router/react-router-dom - https://reactrouter.com/  
-3. react-countdown-circle-timer - https://www.npmjs.com/package/react-countdown-circle-timer
-4. react-tsparticles - https://www.npmjs.com/package/react-tsparticles
-5. axios - https://www.npmjs.com/package/axios
-6. lodash - https://www.npmjs.com/package/lodash
-7. use-sound - https://www.npmjs.com/package/use-sound
-
-### Linters:
-- prettier
-- eslint.
+## Used libs:  
+- React Router
+- React Countdown Circle Timer
+- React TSParticles
+- Axios
+- Lodash
+- Use-sound
 
 ## Available Scripts
 
